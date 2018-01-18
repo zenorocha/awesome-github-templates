@@ -13,29 +13,29 @@
 
 ## :bomb: Templates for Issues
 
-* [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/ISSUE_TEMPLATE.md)
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md)
-* [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/master/.github/ISSUE_TEMPLATE.md)
-* [codeforamerica/howto](https://github.com/codeforamerica/howto/blob/master/issue_template.md)
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md)
-* [eddyverbruggen/toast-phonegap-plugin](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/blob/master/issue_template.md)
-* [growcss/growcss](https://github.com/growcss/growcss/blob/develop/.github/ISSUE_TEMPLATE.md)
-* [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md)
-* [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md)
-* [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md)
-* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md)
+* [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/c1ebea92779a2e80d60e931e295215401ee25fac/.github/ISSUE_TEMPLATE.md)
+* [appium/appium](https://github.com/appium/appium/blob/5f531f400aa66d67b017d1d658fe7774c7edfe6d/.github/ISSUE_TEMPLATE.md)
+* [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/440536279fb202fbebb4c0183545472f2d058433/.github/ISSUE_TEMPLATE.md)
+* [codeforamerica/howto](https://github.com/codeforamerica/howto/blob/630c9919d1f216143e448db39823b678f6e21072/issue_template.md)
+* [driftyco/ionic](https://github.com/ionic-team/ionic/blob/dc280b4199e37d05eb89f71a79d28cae1e8ec3ba/.github/ISSUE_TEMPLATE.md)
+* [eddyverbruggen/toast-phonegap-plugin](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/blob/4f6463e3f2391d50c7dcfca428402312c228c170/issue_template.md)
+* [growcss/growcss](https://github.com/growcss/growcss/blob/fe92ea1bc4695fa74fd83e0209b80c34524693a5/.github/ISSUE_TEMPLATE.md)
+* [polymer/polymer](https://github.com/Polymer/polymer/blob/c868575c67ebf56635bde26d318af4f3df7f2254/.github/ISSUE_TEMPLATE.md)
+* [theos/theos](https://github.com/theos/theos/blob/abee689a088a10e6f15fa9bf00290d9cf93b48f9/.github/ISSUE_TEMPLATE.md)
+* [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/519deeaa1c592465181ee12a57b1686d88caed29/.github/ISSUE_TEMPLATE.md)
+* [sindresorhus/ava](https://github.com/avajs/ava/blob/d814dca6136f3dfd380ea0a8f874cb5a5c290231/.github/issue_template.md)
 
 > [Find more `ISSUE_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+issue_template.md&type=Code&ref=searchresults)
 
 ## :rocket: Templates for Pull Requests
 
-* [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-* [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-* [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-* [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+* [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/208345a198b15dc9cb0e41cda9dae08c47b72c92/.github/PULL_REQUEST_TEMPLATE.md)
+* [appium/appium](https://github.com/appium/appium/blob/355980b6b2dc8cfc5b19cb3420ab6c5f56884a1e/.github/PULL_REQUEST_TEMPLATE.md)
+* [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/da150d91a60435381d37dbb268625a95aa585dbd/.github/PULL_REQUEST_TEMPLATE.md)
+* [driftyco/ionic](https://github.com/ionic-team/ionic/blob/b07eb1afadd921a66afaccc6705f0db8c126c040/.github/PULL_REQUEST_TEMPLATE.md)
+* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/abfd04d323c28c5c5683c2beb877fae36491d5a8/.github/PULL_REQUEST_TEMPLATE.md)
+* [theos/theos](https://github.com/theos/theos/blob/abee689a088a10e6f15fa9bf00290d9cf93b48f9/.github/PULL_REQUEST_TEMPLATE.md)
+* [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/519deeaa1c592465181ee12a57b1686d88caed29/.github/PULL_REQUEST_TEMPLATE.md)
 
 > [Find more `PULL_REQUEST_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+pull_request_template.md&type=Code&ref=searchresults)
 
